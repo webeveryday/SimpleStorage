@@ -1,5 +1,11 @@
 ## Foundry
 
+## Folder Structure
+
+### ./script
+- For deploying the contract
+- It is written in Solidity
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
