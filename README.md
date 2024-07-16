@@ -5,6 +5,8 @@
 ### ./script
 - For deploying the contract
 - It is written in Solidity
+- .s.sol for Foundry convention
+- forge STD stands for forage standard library
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
