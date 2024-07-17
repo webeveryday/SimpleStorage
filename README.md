@@ -8,6 +8,9 @@
 - .s.sol for Foundry convention
 - forge STD stands for forage standard library
 
+## Deploy
+- If you do not specify an RPC URL, it will run the script on a temporary anvil chain
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
