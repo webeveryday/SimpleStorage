@@ -8,6 +8,11 @@
 - .s.sol for Foundry convention
 - forge STD stands for forage standard library
 
+## Note
+- Cast: interacts with contracts that have been previously deployed
+- Forge: compiles and interacts with the contracts
+- Anvil: deploys a local blockchain
+
 ## Deploy
 - If you do not specify an RPC URL, it will run the script on a temporary anvil chain
 
